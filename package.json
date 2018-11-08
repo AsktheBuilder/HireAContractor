@@ -1,0 +1,20 @@
+{
+  "name": "HireTheContractor",
+  "version": "1.0.0",
+  "description": "AskTheBuilder - HireTheContractor App for users to know the right questions to ask on Home Projects/Remodels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthsticky/HireAContractor.git"
+  },
+  "keywords": [],
+  "author": "Tristan Carter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darthsticky/HireAContractor/issues"
+  },
+  "homepage": "https://github.com/darthsticky/HireAContractor#readme"
+}
